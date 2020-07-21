@@ -3,6 +3,6 @@
 
 ### html5 반응형 웹!
 
-### url(buntu.ml) 
+### http://buntu.ml
 
 ### 에서 확인가능!
