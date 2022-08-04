@@ -3,6 +3,6 @@
 
 ### html5 반응형 웹!
 
-### http://buntu.ml
+### https://portflio4jsy.netlify.app/
 
 ### 에서 확인가능!
